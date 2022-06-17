@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Syllabus"
-      href: about.html
+      href: syllabus.html
 
   right: 
     - icon: fa-envelope fa-lg
