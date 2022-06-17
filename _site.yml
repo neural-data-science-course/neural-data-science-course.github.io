@@ -1,4 +1,5 @@
 name: "neural-data-science-course"
+output_dir: "docs"
 navbar:
   title: "Neural Data Science"
   left:
