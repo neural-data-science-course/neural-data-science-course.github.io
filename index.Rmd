@@ -1,0 +1,6 @@
+---
+title: "Neural Data Science"
+---
+A course on programming and analysis methods for neuroscientists.
+
+# Under developement, stay tuned!

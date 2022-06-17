@@ -1,0 +1,19 @@
+name: "neural-data-science-course"
+navbar:
+  title: "Neural Data Science"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Syllabus"
+      href: about.html
+
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<spalladavide.92@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/neural-data-science-course/
+        
+output:
+  html_document:
+      theme: flatly
+      highlight: textmate
