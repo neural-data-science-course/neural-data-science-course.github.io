@@ -33,4 +33,6 @@ output:
 - Neural decoding: Support Vector Machines
 - Dimensionality reduction
 
+**Get started with the module: ** https://github.com/neural-data-science-course/population-methods
+
 ---
