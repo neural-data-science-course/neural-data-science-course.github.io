@@ -6,4 +6,28 @@ output:
     toc_float: true
 ---
 
-Try
+## Module 1: Software developement tools for research
+
+---
+
+## Module 2: Neural data handling and preprocessing
+- Analysis of calcium imaging data
+
+---
+
+## Module 3: Single cell analysis
+- Place cells
+- Generalized Linear models
+
+---
+
+## Module 4: Local Field Potential analysis and signal processing
+
+---
+
+## Module 5: Population methods and machine learning
+- Neural decoding: Naive Bayes 
+- Neural decoding: Support Vector Machines
+- Dimensionality reduction
+
+---
