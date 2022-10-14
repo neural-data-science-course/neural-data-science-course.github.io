@@ -9,31 +9,36 @@ output:
 
 ---
 
-## Module 1: Software developement tools for research
+## Module 1: Software developement for researchers
+- Version control, Git and GitHub
 
 ---
 
 ## Module 2: Neural data handling and preprocessing
-- Analysis of calcium imaging data
+- Calcium imaging data
+- Local field potential data
+
+**Get started with the module: **  
+https://github.com/neural-data-science-course/neural-data
 
 ---
 
 ## Module 3: Single cell analysis
-- Place cells
+- Tuning curves and ratemaps
 - Generalized Linear models
 
+**Get started with the module: **  
+https://github.com/neural-data-science-course/single-cell-analysis
+
 ---
 
-## Module 4: Local Field Potential analysis and signal processing
-
----
-
-## Module 5: Population methods
+## Module 4: Population methods
 - Neural decoding: Naive Bayes 
 - Neural decoding: Support Vector Machines
 - Dimensionality reduction
 
-**Get started with the module: ** https://github.com/neural-data-science-course/population-methods
+**Get started with the module: **  
+https://github.com/neural-data-science-course/population-methods
 
 ---
 
