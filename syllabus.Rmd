@@ -28,7 +28,7 @@ output:
 
 ---
 
-## Module 5: Population methods and machine learning
+## Module 5: Population methods
 - Neural decoding: Naive Bayes 
 - Neural decoding: Support Vector Machines
 - Dimensionality reduction
@@ -36,3 +36,4 @@ output:
 **Get started with the module: ** https://github.com/neural-data-science-course/population-methods
 
 ---
+

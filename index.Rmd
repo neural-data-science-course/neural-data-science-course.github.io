@@ -1,6 +1,22 @@
 ---
 title: "Neural Data Science"
 ---
-A course on programming and analysis methods for neuroscientists.
+### Open learning for systems neuroscience
 
-# Under developement, stay tuned!
+Learn to extract insights from neuroscientific data and to write solid, maintainable and reusable software.  
+Neural data science is a course on fundamental quantitative methods for systems neuroscience, with a focus on practical applications and good programming practices.
+
+## Hands-on
+The course is build around code and provides real-world examples and use cases.You will get a practical understanding of the most important and widely used analysis methods in the field. 
+
+## Comprehensive
+Get a good overview of the tools that systems neuroscience researchers use in their everyday and of the theory that lies under.
+
+## Modular 
+Focus on the topic you are most interested in. The course is organized in independent modules and makes it easy to make the most of limited time.
+
+## Open
+Neural Data Science is open-source and easy to use and extend. Learn, teach and give your contribution!
+
+
+# The course is currently under developement, stay tuned!

@@ -11,7 +11,7 @@
 
 
 
-<title>Course syllabus</title>
+<title>Contribute</title>
 
 <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -227,69 +224,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -297,16 +231,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -328,6 +252,9 @@ div.tocify {
 </li>
 <li>
   <a href="syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="contribute.html">Contribute</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -352,55 +279,17 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Course syllabus</h1>
+<h1 class="title toc-ignore">Contribute</h1>
 
 </div>
 
 
-<hr />
-<div id="module-1-software-developement-tools-for-research"
-class="section level2">
-<h2>Module 1: Software developement tools for research</h2>
-<hr />
-</div>
-<div id="module-2-neural-data-handling-and-preprocessing"
-class="section level2">
-<h2>Module 2: Neural data handling and preprocessing</h2>
-<ul>
-<li>Analysis of calcium imaging data</li>
-</ul>
-<hr />
-</div>
-<div id="module-3-single-cell-analysis" class="section level2">
-<h2>Module 3: Single cell analysis</h2>
-<ul>
-<li>Place cells</li>
-<li>Generalized Linear models</li>
-</ul>
-<hr />
-</div>
-<div id="module-4-local-field-potential-analysis-and-signal-processing"
-class="section level2">
-<h2>Module 4: Local Field Potential analysis and signal processing</h2>
-<hr />
-</div>
-<div id="module-5-population-methods" class="section level2">
-<h2>Module 5: Population methods</h2>
-<ul>
-<li>Neural decoding: Naive Bayes</li>
-<li>Neural decoding: Support Vector Machines</li>
-<li>Dimensionality reduction</li>
-</ul>
-<p><strong>Get started with the module: </strong> <a
-href="https://github.com/neural-data-science-course/population-methods"
-class="uri">https://github.com/neural-data-science-course/population-methods</a></p>
-<hr />
+<div id="page-under-construction-coming-soon" class="section level2">
+<h2>Page under construction, coming soon!</h2>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -433,35 +322,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
