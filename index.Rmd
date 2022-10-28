@@ -15,7 +15,7 @@ Get a good overview of the tools that systems neuroscience researchers use in th
 Focus on the topics you are most interested in. The course is organized in independent modules which contain an overview of the theory, code examples and exercises, making it easy to focus on what you want and learn it at your own pace.
 
 ## Trusted content
-This course has been created by [Dr Davide Spalla](https://www.linkedin.com/in/davide-spalla-02838aa7/?originalSubdomain=nl), an expert in the field of systems neuroscience, and covers the science, the math and the code behind systems neuroscience core tools. 
+This course has been created by a team of expert neuroscientists, coordinated by [Davide Spalla](https://www.linkedin.com/in/davide-spalla-02838aa7/?originalSubdomain=nl). It covers the science, the math and the code behind systems neuroscience core tools. 
 
 ## Open
 Neural Data Science is open-source and easy to use and extend. The content of this course will be always free for learners and teachers. 
