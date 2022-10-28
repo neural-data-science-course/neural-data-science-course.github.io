@@ -1,5 +1,54 @@
 ---
-title: "Contribute"
+title: "Contribute to the Neural Data Science course"
 ---
 
-## Page under construction, coming soon!
+Thank you for investing your time in contributing to the Neural Data Science (NDS) course! Any contribution you make will be listed on the main website (link). To get an overview of the course, read the [README.md](https://github.com/neural-data-science-course/.github/blob/main/profile/README.md). For a comprehensive list of topics covered in the course, check the [course materials](https://neural-data-science-course.github.io/syllabus.html).
+
+The course is organised in modules, which are self-contained chapters about a specific topic. You can contribute by improving on an existing module, or by creating a new module. You'll find below an overview of the contribution workflows from opening an issue, creating a PR, reviewing, and merging the PR, depending on which type of contribution you choose.
+
+If you’re unsure where to start or how your skills fit in, *reach out*! Contact the creator of this course -- Davide Spalla -- at `spalla.davide@gmail.com`.
+
+## Improve on an existing module
+
+Did you find a bug? 
+
+- Ensure the bug was not already reported by searching in the module's GitHub under `Issues`.
+
+- If you're unable to find an open issue addressing the problem, open a new issue. Be sure to include a `title` and `clear description`, and as much relevant information as possible. For example, you can add a code sample demonstrating the expected behavior that is not occurring.
+
+Did you write code that fixes a bug?
+
+- Open a new GitHub pull request (PR) with the patch.
+
+- Ensure the PR description clearly describes the problem and solution. Include the relevant issue number, if present.
+ 
+Do you intend to add new content or change an existing module?
+
+- Suggest your change in the module's Github under `Issues` and wait to collect feedback.
+
+- Once you gathered feedback, then start writing your changes.
+
+- Once you're finished with your changes, create a pull request (PR) and link it to the issue.
+
+- Once you submit your PR, a NDS team member will review your proposal. We may ask questions or request additional information.
+
+- We may ask for changes to be made before a PR can be merged, either using suggested changes or pull request comments. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
+
+#### Your PR is merged into main! 
+
+Congratulations! Once your PR is merged, your contributions will be publicly visible on the main website. 
+
+## Create a new module
+
+We welcome anyone who wants to expand the NDS's [course materials](https://neural-data-science-course.github.io/syllabus.html) and become an author.
+
+- If you wish this new module to be part of the course, propose the module's topic to the course creator by sending an email to Davide Spalla: `spalla.davide@gmail.com`. He will add you to the NDS's Github organisation.
+
+- Use the [template](https://github.com/neural-data-science-course/module-template) by clicking on the green button `Use this template`. This will prompt the creation of a new Github repository.
+
+- Edit the template by following the instructions available in the [README.md](https://github.com/neural-data-science-course/module-template#readme).
+
+- Once you're finished, push the repository into main and ask Davide for feedback You can do this informally by reaching out via email, or by opening an `Issue` in the module Github's repository.
+
+By becoming an author of a module, your contribution will be visible in the main NDS website and within the module's Github repository. 
+

@@ -1,5 +1,5 @@
 ---
-title: "Course syllabus"
+title: "Course materials"
 output: 
   html_document:
     toc: true

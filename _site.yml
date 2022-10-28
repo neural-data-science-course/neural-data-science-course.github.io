@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Syllabus"
+    - text: "Course materials"
       href: syllabus.html
     - text: "Contribute"
       href: contribute.html
