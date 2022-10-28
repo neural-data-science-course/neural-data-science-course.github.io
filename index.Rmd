@@ -1,7 +1,10 @@
 ---
 title: "Neural Data Science"
+subtitle: "Open learning for systems neuroscience"
 ---
-## Open learning for systems neuroscience
+<p align="center">
+![](www/logo_.png){width=50%}
+</p>
 
 Neural Data Science is a course on fundamental quantitative methods for systems neuroscience, with a focus on practical applications and good programming practices. 
 
