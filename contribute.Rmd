@@ -36,11 +36,11 @@ Do you intend to add new content or change an existing module?
 
 #### Your PR is merged into main! 
 
-Congratulations! :tada::tada: Once your PR is merged, your contributions will be publicly visible on the main website. 
+Congratulations! Once your PR is merged, your contributions will be publicly visible on the main website. 
 
 ## Create a new module
 
-We welcome anyone who wants to expand the NDS's [course materials](https://neural-data-science-course.github.io/syllabus.html) and become an :sparkles: author :sparkles:.
+We welcome anyone who wants to expand the NDS's [course materials](https://neural-data-science-course.github.io/syllabus.html) and become an author.
 
 - If you wish this new module to be part of the course, propose the module's topic to the course creator by sending an email to Davide Spalla: `spalla.davide@gmail.com`. He will add you to the NDS's Github organisation.
 
