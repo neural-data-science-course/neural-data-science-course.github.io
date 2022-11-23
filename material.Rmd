@@ -5,40 +5,78 @@ output:
     toc: true
     toc_float: true
 ---
-
-
 ---
 
-## Module 1: Software developement for researchers
-- Version control, Git and GitHub
+## Module 1: Neural data handling and preprocessing
 
----
 
-## Module 2: Neural data handling and preprocessing
-- Calcium imaging data
-- Local field potential data
-
-**Get started with the module: **  
+**Get started with the module here: **  
 https://github.com/neural-data-science-course/neural-data
 
+### Module content:
+
+
+
+#### [Local field potential (LFP)](https://github.com/neural-data-science-course/neural-data/blob/master/03-calcium_imaging/calcium_imaging.ipynb)
+- Introduction to the local field potential
+- Fourier analysis and power spectrum
+- Signal filtering
+- Introduction to time-frequency analysis
+- Wavelet transform and spectrograms
+
+
+#### [Calcium imaging](https://github.com/neural-data-science-course/neural-data/blob/master/03-calcium_imaging/calcium_imaging.ipynb) 
+- Introduction to calcium imaging and CaImAn
+- Data loading and summary images
+- Motion correction
+- Source extraction with Constrained Non-negative Matrix Factorization
+
+
 ---
 
-## Module 3: Single cell analysis
-- Tuning curves and ratemaps
-- Generalized Linear models
+## Module 2: Single cell analysis
 
-**Get started with the module: **  
+**Get started with the module here: **  
 https://github.com/neural-data-science-course/single-cell-analysis
 
+### Module content:
+
+#### [Tuning curves and ratemaps](https://github.com/neural-data-science-course/single-cell-analysis/blob/master/01-tuning-curves/tuning-curves.ipynb)
+- Visualization techniques for the response of a neuron
+- Raster plots and Peri-timulus Time Histograms (PSTH)
+- Tuning curves
+- Visualizing hippocampal place cells
+- Measuring spatial information
+
+#### [Generalized Linear models (GLMs)](https://github.com/neural-data-science-course/single-cell-analysis/blob/master/02-GLMs/GLMs.ipynb)
+- The timulus-response function
+- Linear and non-linear stages of GLMs
+- Linear Gaussian models
+- Linear-Nonlinear Poisson models
+
 ---
 
-## Module 4: Population methods
-- Neural decoding: Naive Bayes 
-- Neural decoding: Support Vector Machines
-- Dimensionality reduction
-
-**Get started with the module: **  
+## Module 3: Population methods
 https://github.com/neural-data-science-course/population-methods
 
----
+### Module content:
+
+#### [Bayesian decoding](https://github.com/neural-data-science-course/population-methods/blob/main/02-bayes-decoding/bayes-decoding.ipynb)
+- Introduction to bayesian decoding with poisson neurons
+- Decoding position on a linear track
+- Decoding during sleep
+- Analysis of seuqential reactivations during sleep
+
+#### [Support Vector Machines for neural decoding](https://github.com/neural-data-science-course/population-methods/blob/main/03-SVM-decoding/SVM-decoding.ipynb)
+- Support Vector Machines and linear separability of data
+- Decoding stimulus identity from neural activity
+- Cross validation techniques
+- Assessing significance with surrogate data
+
+#### [Dimensionality reduction](https://github.com/neural-data-science-course/population-methods/blob/main/01-dimensionality-reduction/dimensionality_reduction.ipynb)
+- Principal component analysis (PCA)
+- Discovering collective modes of acrtivity in the cortex
+- Clustering: K-means and DBSCAN
+- Discovering co-active assemblies with clustering methods
+
 
