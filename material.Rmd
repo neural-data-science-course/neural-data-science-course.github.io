@@ -7,6 +7,35 @@ output:
 ---
 ---
 
+## Optional module 0: Good practices in Research Software Development.
+
+
+**Get started with the module here: **
+https://github.com/neural-data-science-course/research-software-development
+
+### Module content:
+#### [Introduction to version control with git](https://github.com/neural-data-science-course/research-software-development/tree/master/01-git-intro)
+* Tracking changes: `git add` & `git commit`
+* Exploring history, checking out older versions
+* Ignoring things with .gitignore files
+* Github remotes
+
+#### [Collaboration with git and Github](https://github.com/neural-data-science-course/research-software-development/tree/master/02-git-collaboration)
+* Creating pull requests
+* Review process
+* Good practices for collaboration
+
+#### [Intermediate research software development](https://github.com/neural-data-science-course/research-software-development/tree/master/03-intermediate-python)
+* Virtual environments
+* Integrated Software Development Environments (IDEs)
+* Python code style conventions
+* Automatically testing software
+* Software architecture and design
+* Writing reusable software
+* Software management
+
+---
+
 ## Module 1: Neural data handling and preprocessing
 
 
@@ -17,7 +46,7 @@ https://github.com/neural-data-science-course/neural-data
 
 
 
-#### [Local field potential (LFP)](https://github.com/neural-data-science-course/neural-data/blob/master/03-calcium_imaging/calcium_imaging.ipynb)
+#### [Local field potential (LFP)](https://github.com/neural-data-science-course/neural-data/blob/master/01-local_field_potential/local-field-potential.ipynb)
 - Introduction to the local field potential
 - Fourier analysis and power spectrum
 - Signal filtering
