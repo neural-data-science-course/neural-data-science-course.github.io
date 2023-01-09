@@ -7,7 +7,7 @@ output:
 ---
 ---
 
-## Optional module 0: Good practices in Research Software Development.
+## Module 0 (optional): Good practices in Research Software Development.
 
 
 **Get started with the module here: **
