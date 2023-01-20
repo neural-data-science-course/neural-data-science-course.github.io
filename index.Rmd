@@ -3,7 +3,6 @@ title: "Neural Data Science"
 subtitle: "Open learning for systems neuroscience"
 ---
 
-
 <p align="center">
 ![](www/header.png)
 </p>

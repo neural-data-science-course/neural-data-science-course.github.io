@@ -2,6 +2,7 @@
 title: "Contribute to the Neural Data Science course"
 ---
 
+
 Thank you for investing your time in contributing to the Neural Data Science (NDS) course! Any contribution you make will be listed on the main website. To get an overview of the course, read the [README.md](https://github.com/neural-data-science-course/.github/blob/main/profile/README.md). For a comprehensive list of topics covered in the course, check the [course materials](https://neural-data-science-course.github.io/syllabus.html).
 
 The course is organised in modules, which are self-contained chapters about a specific topic. You can contribute by improving on an existing module, or by creating a new module. You'll find below an overview of the contribution workflows from opening an issue, creating a PR, reviewing, and merging the PR, depending on which type of contribution you choose.
