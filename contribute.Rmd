@@ -50,5 +50,5 @@ We welcome anyone who wants to expand the NDS's [course materials](https://neura
 
 - Once you're finished, push the repository into main and ask Davide for feedback. You can do this informally by reaching out via email, or by opening an `Issue` in the module Github's repository.
 
-By becoming an author of a module, your contribution will be visible in the main NDS website and within the module's Github repository. 
+By becoming an author of a module, your contribution will be visible in the main NDS website and within the module's Github repository.  
 
