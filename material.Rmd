@@ -33,8 +33,6 @@ https://github.com/neural-data-science-course/research-software-development
 * Writing reusable software
 * Software management
 
----
-
 ## Module 1: Neural data handling and preprocessing
 
 

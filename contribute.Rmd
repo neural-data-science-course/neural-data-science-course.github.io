@@ -6,7 +6,7 @@ Thank you for investing your time in contributing to the Neural Data Science (ND
 
 The course is organised in modules, which are self-contained chapters about a specific topic. You can contribute by improving on an existing module, or by creating a new module. You'll find below an overview of the contribution workflows from opening an issue, creating a PR, reviewing, and merging the PR, depending on which type of contribution you choose.
 
-If you’re unsure where to start or how your skills fit in, *reach out*! Contact the creator of this course -- Davide Spalla -- at `spalla.davide@gmail.com`.
+If you’re unsure where to start or how your skills fit in, *reach out*! Contact the creator of this course (Davide Spalla) at `spalla.davide@gmail.com`.
 
 ## Improve on an existing module
 
