@@ -35,5 +35,6 @@ jobs:
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git add *[.Rmd/.html]
-          git commit ${RMD_PATH[*]/.Rmd/.html} -m 'Re-build Rmarkdown files' || echo "No changes to commit"
+          git add docs/\*.html
+          git commit -m 'Re-build Rmarkdown files' || echo "No changes to commit"
           git push || echo "No changes to commit"
