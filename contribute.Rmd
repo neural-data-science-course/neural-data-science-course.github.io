@@ -2,7 +2,7 @@
 title: "Contribute to the Neural Data Science course"
 ---
 
-Thank you for investing your time in contributing to the Neural Data Science (NDS) course! Any contribution you make will be listed on the main website (link). To get an overview of the course, read the [README.md](https://github.com/neural-data-science-course/.github/blob/main/profile/README.md). For a comprehensive list of topics covered in the course, check the [course materials](https://neural-data-science-course.github.io/syllabus.html).
+Thank you for investing your time in contributing to the Neural Data Science (NDS) course! Any contribution you make will be listed on the main website. To get an overview of the course, read the [README.md](https://github.com/neural-data-science-course/.github/blob/main/profile/README.md). For a comprehensive list of topics covered in the course, check the [course materials](https://neural-data-science-course.github.io/syllabus.html).
 
 The course is organised in modules, which are self-contained chapters about a specific topic. You can contribute by improving on an existing module, or by creating a new module. You'll find below an overview of the contribution workflows from opening an issue, creating a PR, reviewing, and merging the PR, depending on which type of contribution you choose.
 
@@ -48,7 +48,7 @@ We welcome anyone who wants to expand the NDS's [course materials](https://neura
 
 - Edit the template by following the instructions available in the [README.md](https://github.com/neural-data-science-course/module-template#readme).
 
-- Once you're finished, push the repository into main and ask Davide for feedback You can do this informally by reaching out via email, or by opening an `Issue` in the module Github's repository.
+- Once you're finished, push the repository into main and ask Davide for feedback. You can do this informally by reaching out via email, or by opening an `Issue` in the module Github's repository.
 
 By becoming an author of a module, your contribution will be visible in the main NDS website and within the module's Github repository. 
 
