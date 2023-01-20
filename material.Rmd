@@ -5,7 +5,6 @@ output:
     toc: true
     toc_float: true
 ---
----
 
 ## Module 0 (optional): Good practices in Research Software Development.
 This module is based on material from [The Carpentries](https://carpentries.org/), where you can find a lot of free, open source and high quality material on software development and data science.
@@ -33,8 +32,6 @@ https://github.com/neural-data-science-course/research-software-development
 * Software architecture and design
 * Writing reusable software
 * Software management
-
----
 
 ## Module 1: Neural data handling and preprocessing
 
