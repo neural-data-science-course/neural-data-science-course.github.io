@@ -27,5 +27,3 @@ Neural Data Science is open-source and easy to use and extend. The content of th
 ### Join and contribute!
 The Neural Data Science course is a volunteer effort. We encourage you to learn, teach and give your contribution!
 
-
-### The course is currently under developement, stay tuned!
